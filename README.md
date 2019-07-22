@@ -1,4 +1,4 @@
-# Grizzly Machine's Unity Utilties and Samples
+# Grizzly Machine's Unity Utilities and Samples
 This is a dumping ground for utilties and sample code that do not warrant their own repos (things that would be in gists if orgs could create gists).
 
 ## [Batched Particle Systems](/BatchedParticleSystem/)
