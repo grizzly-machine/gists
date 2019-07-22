@@ -6,9 +6,9 @@ namespace GrizzlyMachine
     public class BatchedParticleEmitter : MonoBehaviour
     {
         [Header("Emission")]
-        [SerializeField] private float _emissionRate;
-        [SerializeField] private bool _useTransformAsEmitterPosition;
-        [SerializeField] private bool _applyEmitterShape;
+        [SerializeField] private float _emissionRate = 10;
+        [SerializeField] private bool _useTransformAsEmitterPosition = true;
+        [SerializeField] private bool _applyEmitterShape = true;
 
         [Header("Emitter Overrides")]
         [SerializeField] private FloatOverride _angularVelocity;
