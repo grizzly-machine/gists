@@ -1,6 +1,8 @@
 # Grid Scrolling Shader
 This simple unlit shader endlessly scrolls through a grid of cells within a texture. It supports scrolling vertically or horizontally, and can work within a subset of the texture to allow for atlassing.
 
+[More info and tutorial here.](https://www.grizzly-machine.com/entries/tutorial-looped-grid-scrolling-shader)
+
 ![](gifs/GridScroller_half.gif)
 ![](gifs/Bidirectional.gif)
 
